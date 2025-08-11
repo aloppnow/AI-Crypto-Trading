@@ -1,0 +1,2 @@
+🛠️ Executing: buy_crypto_limit(BTCUSDT, 1, limit=114150)
+✅ Result: {'error': "module 'robin_stocks.robinhood.crypto' has no attribute 'buy_crypto_by_limit'"}
