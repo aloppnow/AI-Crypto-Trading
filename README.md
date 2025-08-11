@@ -50,7 +50,7 @@ This repository contains an advanced, automated crypto trading bot that leverage
 ## Requirements
 
 - Python 3.8+
-- Robinhood and Coinbase accounts
+- Coinbase accounts
 - API keys for Coinbase and OpenAI
 
 Install dependencies with:
@@ -70,9 +70,6 @@ pip install -r requirements.txt
    OPENAI_API_KEY=your_openai_api_key
    COINBASE_API_KEY=your_coinbase_api_key
    COINBASE_API_SECRET=your_coinbase_api_secret
-   RH_USERNAME=your_robinhood_username
-   RH_PASSWORD=your_robinhood_password
-   RH_2FA_SEED=your_robinhood_2fa_seed
    ```
 3. **Run the bot:**
    ```bash
